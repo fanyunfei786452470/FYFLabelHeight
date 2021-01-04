@@ -131,6 +131,7 @@
 		0F2888B125A2AE8E00774830 = {
 			isa = PBXGroup;
 			children = (
+				0F28898025A2B34200774830 /* FYFLabel */,
 				0F2888BC25A2AE8E00774830 /* FYFLabelHeight */,
 				0F2888D825A2AE9000774830 /* FYFLabelHeightTests */,
 				0F2888E325A2AE9000774830 /* FYFLabelHeightUITests */,
@@ -152,7 +153,6 @@
 			isa = PBXGroup;
 			children = (
 				0F28898D25A2B36900774830 /* Masonry */,
-				0F28898025A2B34200774830 /* Classes */,
 				0F28898525A2B34200774830 /* UnLimitNumberOfLineController.h */,
 				0F28898625A2B34200774830 /* UnLimitNumberOfLineController.m */,
 				0F2889B425A2B38400774830 /* LimitNumberOfLineController.h */,
@@ -190,7 +190,7 @@
 			path = FYFLabelHeightUITests;
 			sourceTree = "<group>";
 		};
-		0F28898025A2B34200774830 /* Classes */ = {
+		0F28898025A2B34200774830 /* FYFLabel */ = {
 			isa = PBXGroup;
 			children = (
 				0F28898225A2B34200774830 /* NSString+Size.h */,
@@ -198,7 +198,7 @@
 				0F28898425A2B34200774830 /* UILabel+Attributed.h */,
 				0F28898125A2B34200774830 /* UILabel+Attributed.m */,
 			);
-			path = Classes;
+			path = FYFLabel;
 			sourceTree = "<group>";
 		};
 		0F28898D25A2B36900774830 /* Masonry */ = {
